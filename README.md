@@ -1,6 +1,6 @@
 # Socketio-Chat-Application
 
-A Nodejs Chat Application developed using **socketio** library and Firebase **Cloud Firestore** database.
+Nodejs Chat Application developed using **socketio** library and Firebase **Cloud Firestore** database.
 <br>
 
 To use the Firebase Admin SDK on your own server (or any other Node.js environment), use a service account. Go to IAM & admin > Service accounts in the Cloud Platform Console. Generate a new private key and save the JSON file. 
