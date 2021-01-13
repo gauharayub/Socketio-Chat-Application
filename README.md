@@ -26,3 +26,7 @@ Start the local server without nodemon.
 ## Join a Room
 
 ![Join](/images/login.png)
+
+## Chat Dashboard
+
+![Join](/images/chatapp.png)
